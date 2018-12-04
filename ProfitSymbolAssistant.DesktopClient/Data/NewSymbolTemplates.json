@@ -1,0 +1,209 @@
+[
+    {
+        "UIDisplayName": "OMX (OMXS30)",
+        "DisplayNamePattern": "OMXS30 {0}",
+        "DescriptionPattern": "OMXS30 exp. {0}",
+        "AssetPatern" : "OMXS{0}",
+        "TCCode": "",
+        "MainSuppCodePattern": "OMXS-{0}",
+        "BackupSuppCodePattern": "OMXS-{0}"
+    },
+    {
+        "UIDisplayName": "MIB",
+        "DisplayNamePattern": "MIB {0}",
+        "DescriptionPattern": "MIB exp. {0}",
+        "AssetPatern" : "MIB{0}",
+        "TCCode": "FTSEMIB",
+        "MainSuppCodePattern": "MIB-{0}",
+        "BackupSuppCodePattern": "MIB-{0}"
+    },
+    {
+        "UIDisplayName": "WIG (WIG20)",
+        "DisplayNamePattern": "WIG20 {0}",
+        "DescriptionPattern": "WIG20 exp. {0}",
+        "AssetPatern" : "WIG{0}",
+        "TCCode": "WIG20",
+        "MainSuppCodePattern": "WIG20-{0}",
+        "BackupSuppCodePattern": "WIG20-{0}"
+    },
+    {
+        "UIDisplayName": "SP",
+        "DisplayNamePattern": "SP {0}",
+        "DescriptionPattern": "SP exp. {0}",
+        "AssetPatern" : "SP{0}",
+        "TCCode": "SPX",
+        "MainSuppCodePattern": "SP-{0}",
+        "BackupSuppCodePattern": "SP-{0}"
+    },
+    {
+        "UIDisplayName": "NSDQ (NasDaq)",
+        "DisplayNamePattern": "NSDQ {0}",
+        "DescriptionPattern": "NSDQ exp. {0}",
+        "AssetPatern" : "NSDQ{0}",
+        "TCCode": "NDX",
+        "MainSuppCodePattern": "NSDQ-{0}",
+        "BackupSuppCodePattern": "NSDQ-{0}"
+    },
+    {
+        "UIDisplayName": "NK (Nikkei)",
+        "DisplayNamePattern": "NK {0}",
+        "DescriptionPattern": "NK exp. {0}",
+        "AssetPatern" : "NK{0}",
+        "TCCode": "NKY",
+        "MainSuppCodePattern": "NK-{0}",
+        "BackupSuppCodePattern": "NK-{0}"
+    },
+    {
+        "UIDisplayName": "IBEX",
+        "DisplayNamePattern": "IBEX {0}",
+        "DescriptionPattern": "IBEX exp. {0}",
+        "AssetPatern" : "IBEX{0}",
+        "TCCode": "FIBX",
+        "MainSuppCodePattern": "IBEX-{0}",
+        "BackupSuppCodePattern": "IBEX-{0}"
+    },
+    {
+        "UIDisplayName": "FTSE (FTSE100)",
+        "DisplayNamePattern": "FTSE {0}",
+        "DescriptionPattern": "FTSE100 exp. {0}",
+        "AssetPatern" : "FTSE{0}",
+        "TCCode": "UKX",
+        "MainSuppCodePattern": "FTSE-{0}",
+        "BackupSuppCodePattern": "FTSE-{0}"
+    },
+    {
+        "UIDisplayName": "DOW (Dow Jones)",
+        "DisplayNamePattern": "DOW {0}",
+        "DescriptionPattern": "DOW exp. {0}",
+        "AssetPatern" : "DOW{0}",
+        "TCCode": "DM",
+        "MainSuppCodePattern": "DOW-{0}",
+        "BackupSuppCodePattern": "DOW-{0}"
+    },
+    {
+        "UIDisplayName": "DAX",
+        "DisplayNamePattern": "DAX {0}",
+        "DescriptionPattern": "DAX exp. {0}",
+        "AssetPatern" : "DAX{0}",
+        "TCCode": "FDAX",
+        "MainSuppCodePattern": "DAX-{0}",
+        "BackupSuppCodePattern": "DAX-{0}"
+    },
+    {
+        "UIDisplayName": "CAC (CAC40)",
+        "DisplayNamePattern": "CAC {0}",
+        "DescriptionPattern": "CAC 40 exp. {0}",
+        "AssetPatern" : "CAC{0}",
+        "TCCode": "FCE",
+        "MainSuppCodePattern": "CAC-{0}",
+        "BackupSuppCodePattern": "CAC-{0}"
+    },
+    {
+        "UIDisplayName": "BRENT",
+        "DisplayNamePattern": "BRENT {0}",
+        "DescriptionPattern": "BRENT exp. {0}",
+        "AssetPatern" : "BRENT{0}",
+        "TCCode": "CO1",
+        "MainSuppCodePattern": "BRENT-{0}",
+        "BackupSuppCodePattern": "BRNT-{0}"
+    },
+    {
+        "UIDisplayName": "COPP (Copper)",
+        "DisplayNamePattern": "COPP {0}",
+        "DescriptionPattern": "Copper exp. {0}",
+        "AssetPatern" : "COPP{0}",
+        "TCCode": "HG",
+        "MainSuppCodePattern": "COPP-{0}",
+        "BackupSuppCodePattern": "COPP-{0}"
+    },
+    {
+        "UIDisplayName": "CL (Crude Oil)",
+        "DisplayNamePattern": "CL {0}",
+        "DescriptionPattern": "Crude Oil exp. {0}",
+        "AssetPatern" : "CL{0}",
+        "TCCode": "CL1",
+        "MainSuppCodePattern": "CL-{0}",
+        "BackupSuppCodePattern": "CL-{0}"
+    },
+    {
+        "UIDisplayName": "WHEAT",
+        "DisplayNamePattern": "WHEAT {0}",
+        "DescriptionPattern": "Wheat exp. {0}",
+        "AssetPatern" : "WHEAT{0}",
+        "TCCode": "W1",
+        "MainSuppCodePattern": "WHEAT-{0}",
+        "BackupSuppCodePattern": "WHEAT{0}"
+    },
+    {
+        "UIDisplayName": "CORN",
+        "DisplayNamePattern": "CORN {0}",
+        "DescriptionPattern": "Corn exp. {0}",
+        "AssetPatern" : "CORN{0}",
+        "TCCode": "C1",
+        "MainSuppCodePattern": "CORN-{0}",
+        "BackupSuppCodePattern": "CORN-{0}"
+    },
+    {
+        "UIDisplayName": "COTT2 (Cotton)",
+        "DisplayNamePattern": "COTT2 {0}",
+        "DescriptionPattern": "Cotton exp. {0}",
+        "AssetPatern" : "COTT2{0}",
+        "TCCode": "CT",
+        "MainSuppCodePattern": "COTT2-{0}",
+        "BackupSuppCodePattern": "COTT2-{0}"
+    },
+    {
+        "UIDisplayName": "SUGAR (SUG11)",
+        "DisplayNamePattern": "SUGAR {0}",
+        "DescriptionPattern": "SUGAR exp. {0}",
+        "AssetPatern" : "SUG11{0}",
+        "TCCode": "SB1",
+        "MainSuppCodePattern": "SUG11-{0}",
+        "BackupSuppCodePattern": "SUG11-{0}"
+    },
+    {
+        "UIDisplayName": "PLAT (Platinum)",
+        "DisplayNamePattern": "PLAT {0}",
+        "DescriptionPattern": "Platinum exp. {0}",
+        "AssetPatern" : "PLAT{0}",
+        "TCCode": "PL1",
+        "MainSuppCodePattern": "PLAT-{0}",
+        "BackupSuppCodePattern": "PLAT-{0}"
+    },
+    {
+        "UIDisplayName": "PALLAD (Palladium)",
+        "DisplayNamePattern": "PALLAD {0}",
+        "DescriptionPattern": "PALLAD exp. {0}",
+        "AssetPatern" : "PALLAD{0}",
+        "TCCode": "PA1",
+        "MainSuppCodePattern": "PALLAD-{0}",
+        "BackupSuppCodePattern": "PALLAD-{0}"
+    },
+    {
+        "UIDisplayName": "COFFEE",
+        "DisplayNamePattern": "COFFEE {0}",
+        "DescriptionPattern": "COFFEE exp. {0}",
+        "AssetPatern" : "COFFEE{0}",
+        "TCCode": "KC1",
+        "MainSuppCodePattern": "COFFEE-{0}",
+        "BackupSuppCodePattern": "COFFEE-{0}"
+    },
+    {
+        "UIDisplayName": "JSE",
+        "DisplayNamePattern": "JSE {0}",
+        "DescriptionPattern": "JSE exp. {0}",
+        "AssetPatern" : "JSE{0}",
+        "TCCode": "",
+        "MainSuppCodePattern": "JSE-{0}",
+        "BackupSuppCodePattern": "JSE-{0}"
+    },
+    {
+        "UIDisplayName": "ASX",
+        "DisplayNamePattern": "ASX {0}",
+        "DescriptionPattern": "ASX 200 exp. {0}",
+        "AssetPatern" : "ASX{0}",
+        "TCCode": "",
+        "MainSuppCodePattern": "ASX-{0}",
+        "BackupSuppCodePattern": "ASX-{0}"
+    }
+]
